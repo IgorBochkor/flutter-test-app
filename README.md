@@ -1,5 +1,5 @@
 A simple Flutter application that display the text "Hey there" in the middle of the screen
-and after tapping anywhere on the screen a background color will change to a random color.
+and after tapping anywhere on the screen a background color changes to a random color.
 
 ## For launch project
 
