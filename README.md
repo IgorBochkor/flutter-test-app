@@ -4,8 +4,11 @@ and after tapping anywhere on the screen a background color will change to a ran
 ## For launch project
 
 -Install Flutter [click](https://flutter.dev/docs/get-started/install)
+
 -Clone repository
+
 -Open app (File -> New -> Project from version control)
+
 -Run app (Run -> run 'main.dart')
 
 ## For run tests
