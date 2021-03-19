@@ -7,6 +7,8 @@ and after tapping anywhere on the screen a background color changes to a random 
 
 -Clone repository
 
+-Open Android Studio
+
 -Open app (File -> New -> Project from version control)
 
 -Run app (Run -> run 'main.dart')
@@ -17,4 +19,3 @@ and after tapping anywhere on the screen a background color changes to a random 
 
 > flutter test
 
-# test_app
